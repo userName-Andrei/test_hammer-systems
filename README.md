@@ -2,7 +2,7 @@
 
 Хостинг - GitHub Pages
 
-[Ссылка на приложение](https://userName-Andrei.github.io/test_hammer-systems)
+[Ссылка на приложение](https://test-hammer-systems.web.app)
 
 #### Реализовано 1 и 2 части тестового задания
 
